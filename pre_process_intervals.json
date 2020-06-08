@@ -1,0 +1,7 @@
+{		
+	"PreProcessIntervalsWorkflow.intervals": "/home/bioinfo/software/knightlab/genomes/hs37d5/bed_files/hs37d5_coding_idt_med_v2_spikein_padded_Apr2019.bed",
+	"PreProcessIntervalsWorkflow.ref_fasta": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.fasta",
+	"PreProcessIntervalsWorkflow.ref_fasta_fai": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.fasta.fai",
+	"PreProcessIntervalsWorkflow.ref_fasta_dict": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.dict"
+}
+

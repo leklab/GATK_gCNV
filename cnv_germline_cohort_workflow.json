@@ -1,0 +1,12 @@
+{		
+	"CNVGermlineCohortWorkflow.cohort_entity_id": "Hildebrandt_subset_cohort",
+	"CNVGermlineCohortWorkflow.inputSamplesFile": "/home/ml2529/project/GATK_gCNV/Hildebrandt_NS_inputs_batch1.tsv",
+	"CNVGermlineCohortWorkflow.contig_ploidy_priors": "/home/ml2529/project/GATK_gCNV/contig_priors.tsv",
+	"CNVGermlineCohortWorkflow.intervals": "/home/ml2529/project/GATK_gCNV/test2.preprocessed.interval_list",
+	"CNVGermlineCohortWorkflow.num_intervals_per_scatter": "2000",
+	"CNVGermlineCohortWorkflow.ref_copy_number_autosomal_contigs": "2",
+	"CNVGermlineCohortWorkflow.allosomal_contigs": ["X","Y"],
+	"CNVGermlineCohortWorkflow.ref_fasta": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.fasta",
+	"CNVGermlineCohortWorkflow.ref_fasta_fai": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.fasta.fai",
+	"CNVGermlineCohortWorkflow.ref_fasta_dict": "/home/bioinfo/software/knightlab/genomes/hs37d5/human_g1k_v37_decoy.dict"
+}
